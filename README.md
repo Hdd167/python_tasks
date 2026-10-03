@@ -7,12 +7,12 @@
 
 **🟢 Easy 1: 628. Maximum Product of Three Numbers**
 
-[📄 solution](./628/628.%20Maximum%20Product%20of%20Three%20Numbers.py) &nbsp;|&nbsp; [📸 screenshot](./628/628.%20Maximum%20Product%20of%20Three%20Numbers.png)
+[📄 solution](./628/628.%20Maximum%20Product%20of%20Three%20Numbers.py) &nbsp;|&nbsp; [📸 test](./628/628.%20Maximum%20Product%20of%20Three%20Numbers.png)
 
 **🟢 Easy 2: 771. Jewels and Stones**
 
-[📄 solution](./771/771.%20Jewels%20and%20Stones.py) &nbsp;|&nbsp; [📸 screenshot](./771/771.%20Jewels%20and%20Stones.png)
+[📄 solution](./771/771.%20Jewels%20and%20Stones.py) &nbsp;|&nbsp; [📸 test](./771/771.%20Jewels%20and%20Stones.png)
 
 **🟡 Medium: 167. Two Sum II - Input Array Is Sorted**
 
-[📄 solution](./167/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.py) &nbsp;|&nbsp; [📸 screenshot](./167/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.png)
+[📄 solution](./167/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.py) &nbsp;|&nbsp; [📸 test](./167/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.png)
