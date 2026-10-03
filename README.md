@@ -13,4 +13,4 @@
 
 **🟡 Medium: 167. Two Sum II - Input Array Is Sorted**
 
-[📄 solution](./167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.py) &nbsp;|&nbsp; [📸 screenshot test](./167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.png)
+[📄 solution](./167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.py) &nbsp;|&nbsp; [📸 screenshot test]([./771.%20Jewels%20and%20Stones.png])
